@@ -1,2 +1,2 @@
 streamlit
-swatchpalette
+git+https://github.com/fabiocaccamo/swatchpalette.git
